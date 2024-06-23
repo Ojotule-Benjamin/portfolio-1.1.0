@@ -20,7 +20,7 @@ function Contact() {
           <div className="flex justify-between items-center pt-6">
             <a
               className="p-5 bg-gray-50 rounded-full cursor-pointer"
-              href="mailto:emeka.ikelee@gmail.com"
+              href="mailto:benjamin.ojotule.ajodo@gmail.com"
             >
               <svg
                 width="20px"
