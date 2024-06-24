@@ -36,7 +36,7 @@ function Contact() {
               </svg>
             </a>
             <div className="text-white font-medium text-lg">
-              <a href="mailto:emeka.ikelee@gmail.com">
+              <a href="mailto:benjamin.ojotule.ajodo@gmail.com">
                 benjamin.ojotule.ajodo@gmail.com
               </a>
             </div>
