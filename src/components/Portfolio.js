@@ -5,7 +5,7 @@ import React from "react";
 const works = [
   {
     id: 0,
-    name: "Bizflex Africa",
+    name: "Bizflex",
     link: "https://play.google.com/store/search?q=bizflex+africa&c=apps",
     img: "../../assets/img/bizflex.jpeg",
     alt: "bizflex placeholder",
