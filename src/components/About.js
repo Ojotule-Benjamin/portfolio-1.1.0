@@ -32,7 +32,7 @@ function About() {
           experience in collaborating with creative and development teams on the
           execution of ideas and projects. I like to craft solid and scaleble
           frontend products with great user experiences.
-          <br /> <br /> When I&#39;m not writing code or deploying frontends,
+          <br /> <br /> When I&#39;m not writing code or deploying applications,
           I&#39;m watching football &#40; or playing video games&#39; &#41;! I
           actually think football is the greatest sport man has invented.
           <br />

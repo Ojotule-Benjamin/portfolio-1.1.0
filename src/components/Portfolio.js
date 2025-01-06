@@ -5,11 +5,19 @@ import React from "react";
 const works = [
   {
     id: 0,
-    name: "Letbud",
-    link: "http://letbudapp.s3-website.eu-west-2.amazonaws.com/",
-    img: "../../assets/img/Letbud-min.png",
-    alt: "Letbud placeholder",
-    type: "Web Application",
+    name: "Bizflex Africa",
+    link: "https://play.google.com/store/search?q=bizflex+africa&c=apps",
+    img: "../../assets/img/bizflex.jpeg",
+    alt: "bizflex placeholder",
+    type: "Mobile Application",
+  },
+  {
+    id: 1,
+    name: "Aptfuel",
+    link: "https://apps.apple.com/ng/app/apt-fuel/id6670311155",
+    img: "../../assets/img/aptfuel.jpeg",
+    alt: "Aptfuel placeholder",
+    type: "Mobile Application",
   },
   {
     id: 1,
@@ -20,12 +28,12 @@ const works = [
     type: "Mobile Application",
   },
   {
-    id: 2,
-    name: "Ritz Urban Luxury",
-    link: "https://www.ritzurbanluxury.com/",
-    img: "../../assets/img/ritzportfolio.png",
-    alt: "ritz portfolio placeholder",
-    type: "Website + Web Application",
+    id: 0,
+    name: "Letbud",
+    link: "https://www.letbud.com/",
+    img: "../../assets/img/Letbud-min.png",
+    alt: "Letbud placeholder",
+    type: "Web Application",
   },
   {
     id: 3,
@@ -36,20 +44,29 @@ const works = [
     type: "Website",
   },
   {
-    id: 4,
-    name: "Ritz",
-    link: "",
-    img: "../../assets/img/ritzhub2.png",
-    alt: "ritz placeholder",
-    type: "Mobile Application",
-  },
-  {
     id: 5,
     name: "Ecocyntec",
     link: "https://ecocyntec.vercel.app/",
     img: "../../assets/img/ecocyntec.png",
     alt: "ecocyntec placeholder",
     type: "Website",
+  },
+  {
+    id: 2,
+    name: "Ritz Urban Luxury",
+    link: "https://www.ritzurbanluxury.com/",
+    img: "../../assets/img/ritzportfolio.png",
+    alt: "ritz portfolio placeholder",
+    type: "Website + Web Application",
+  },
+
+  {
+    id: 4,
+    name: "Ritz",
+    link: "",
+    img: "../../assets/img/ritzhub2.png",
+    alt: "ritz placeholder",
+    type: "Mobile Application",
   },
 ];
 

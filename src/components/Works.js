@@ -6,7 +6,7 @@ function Works() {
     <div className="bg-black left-0 relative" id="projects">
       <a
         className="absolute z-0 right-8 md:right-20 -top-24 animate-spin cursor-pointer"
-        href="https://drive.google.com/file/d/19LPIXbHYxfnwFr8S9AuBZ2EnH9jTotTf/view?usp=sharing"
+        href="https://drive.google.com/file/d/1jYK3EIWCjT4EFQ020WEzzqYBKn9U7kqY/view?usp=sharing"
       >
         <img src="../../assets/img/resume.svg" alt="CV" className="cvLink" />
       </a>

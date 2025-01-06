@@ -2,7 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
-    <div className="mx-auto py-20 px-8 md:px-16 bg-black overflow-hidden">
+    <div className="mx-auto py-20 px-8 md:px-52 bg-black overflow-hidden">
       <div className="max-w-full">
         <h1
           className="text-white font-bold heroHeading"
@@ -97,7 +97,7 @@ function Hero() {
         Abuja, Nigeria. <span>My specialties include</span> creating intuitive,
         dynamic user experiences on the web and mobile using JavaScript tools{" "}
         <span className="text-gray-400 opacity-75">such as</span> React.js,
-        React Native
+        React Native, expo
         <span className="text-gray-400 opacity-75">, and</span> Next.js while
         ensuring maximum accessibility, user-friendliness
         <span className="text-gray-400 opacity-75">, and</span> usability.
