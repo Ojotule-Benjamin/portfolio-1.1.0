@@ -75,25 +75,6 @@ function Skills() {
             </div>
           );
         })}
-
-        {/* <div className="flex justify-between py-12">
-          <div className="w-2/6">
-            <h5 className="text-base font-medium">Jun 2023-Present</h5>
-          </div>
-          <div className="w-4/6 flex flex-col justify-start space-y-5">
-            <h3 className="text-3xl font-medium">Lead Frontend Developer</h3>
-            <h5 className="text-base font-medium text-gray-500">Letbud</h5>
-          </div>
-        </div>
-        <div className="flex justify-between py-12">
-          <div className="w-2/6">
-            <h5 className="text-base font-medium">Apr. 2020-May 2023</h5>
-          </div>
-          <div className="w-4/6 flex flex-col justify-start space-y-5">
-            <h3 className="text-3xl font-medium">Frontend Developer</h3>
-            <h5 className="text-base font-medium text-gray-500">Regenate</h5>
-          </div>
-        </div> */}
       </div>
     </div>
   );
