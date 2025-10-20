@@ -3,6 +3,7 @@ import { logoData } from "../logoData";
 // import VisualDesign from "./assets/visual-design.png";
 // import JavaScript from "../../assets/img/javascript.webp";
 
+//jobs
 const jobHistory = [
   {
     id: 0,
