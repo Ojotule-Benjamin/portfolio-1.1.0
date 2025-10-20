@@ -75,7 +75,7 @@ export default function Services() {
                     />
                   </svg>
                 </div>
-                <h2 className="service-title text-7xl">Frontend</h2>
+                <h2 className="service-title text-7xl">Full-stack</h2>
               </div>
               <div
                 className={`service1 ${

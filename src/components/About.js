@@ -28,10 +28,10 @@ function About() {
           Developer, scholar, coder, dreamer... and the rest”
         </h5>
         <p className="font-normal text-xl leading-7 py-10">
-          I&#39;m a seasoned frontend developer with over five years of
+          I&#39;m a seasoned full-stack developer with over five years of
           experience in collaborating with creative and development teams on the
           execution of ideas and projects. I like to craft solid and scaleble
-          frontend products with great user experiences.
+          products with great user experiences.
           <br /> <br /> When I&#39;m not writing code or deploying applications,
           I&#39;m watching football &#40; or playing video games&#39; &#41;! I
           actually think football is the greatest sport man has invented.

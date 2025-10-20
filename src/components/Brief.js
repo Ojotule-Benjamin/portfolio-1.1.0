@@ -27,7 +27,7 @@ export default function Brief() {
           consoles.
         </p>
         <p className="sub_text2 text-gray-200 text-lg mt-6">
-          Interested in the entire frontend spectrum and working on ambitious
+          Interested in the entire product spectrum and working on ambitious
           projects with posistive people.
         </p>
         {/* <p className="sub_text2 text-gray-200 text-lg mt-6">
