@@ -71,4 +71,10 @@ export const logoData = [
     alt: "aws",
     name: "AWS",
   },
+  {
+    id: 12,
+    logo: "../../assets/img/nodeJs.png",
+    alt: "nodejs",
+    name: "NodeJs",
+  },
 ];

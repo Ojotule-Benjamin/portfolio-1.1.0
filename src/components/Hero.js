@@ -8,13 +8,14 @@ function Hero() {
           className="text-white font-bold heroHeading"
           style={{ fontSize: "85px" }}
         >
-          I&#39;m Ojotule Benjamin Ajodo - Frontend Developer
+          I&#39;m Ojotule Benjamin Ajodo
         </h1>
         <h1
           className="text-white font-bold heroHeading"
           style={{ fontSize: "50px" }}
         >
-          Web &amp; Mobile Developer.
+          {/* Web &amp; Mobile Developer. */}
+          Full-Stack Developer.
         </h1>
       </div>
       <div className="my-11 flex flex-wrap flex-row items-center space-x-6">
@@ -96,8 +97,8 @@ function Hero() {
         </span>{" "}
         Abuja, Nigeria. <span>My specialties include</span> creating intuitive,
         dynamic user experiences on the web and mobile using JavaScript tools{" "}
-        <span className="text-gray-400 opacity-75">such as</span> React.js,
-        React Native, expo
+        <span className="text-gray-400 opacity-75">such as</span> NodeJs,
+        ExpressJs, React.js, React Native, expo
         <span className="text-gray-400 opacity-75">, and</span> Next.js while
         ensuring maximum accessibility, user-friendliness
         <span className="text-gray-400 opacity-75">, and</span> usability.

@@ -19,13 +19,13 @@ const jobHistory = [
   {
     id: 2,
     duration: "May 2023 - Dec. 2023",
-    role: "Lead Frontend Engineer",
+    role: "Full-Stack Developer",
     company: "Letbud",
   },
   {
     id: 3,
     duration: "April 2022 - Jan. 2024",
-    role: "Frontend Developer",
+    role: "Full-Stack Developer",
     company: "Regenate",
   },
 ];
